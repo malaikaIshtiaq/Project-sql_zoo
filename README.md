@@ -1,3 +1,4 @@
+Created my Malaika
 # Solutions For Project: SQL ZOO
 ## SELECT Basics
 ### Introducing the `world` table of countries
